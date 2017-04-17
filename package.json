@@ -1,0 +1,22 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-css-scss": "^0.1.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "latest",
+    "browser-sync": "latest",
+    "gulp": "latest",
+    "gulp-plumber": "latest",
+    "gulp-postcss": "latest",
+    "gulp-sass": "latest"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Victoria",
+  "license": "ISC"
+}
